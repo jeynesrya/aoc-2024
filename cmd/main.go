@@ -9,4 +9,7 @@ func main() {
 	if err := aoc.Day2(); err != nil {
 		panic(err)
 	}
+	if err := aoc.Day3(); err != nil {
+		panic(err)
+	}
 }
